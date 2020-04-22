@@ -1,3 +1,4 @@
+print('te ayudaremos un monton! ')
 print('bienvenido, te diremos el peso total de tu mercancia!')
 muneca=int(input('cuantos munecas enviaras? '))
 payasos=int(input('y cuantos payasos? '))
